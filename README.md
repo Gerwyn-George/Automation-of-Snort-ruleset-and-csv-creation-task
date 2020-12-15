@@ -9,7 +9,7 @@ There was a requirement for the script to perform the following tasks:
     - A Snort ruleset which contains secret and official information.
     - A Snort ruleset which contains secret and official information, with Snort signatures above 201000. 
 
--Create four csv files which contained the following data. 
+- Create four csv files which contained the following data. 
     - A csv file containing one column containing all sids for rules containing official information, and second column containing the rule data.
     - A csv file containing one column containing the sid and rev number for all rules containing official information in the following format sid:rev, without data from 
       Snort rules specified in a csv file.
